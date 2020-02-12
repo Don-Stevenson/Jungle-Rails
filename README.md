@@ -6,16 +6,23 @@ Jungle looks like:
 
 <b>Login</b>
 
-!["Login"]()
+!["Login"](https://github.com/Don-Stevenson/Jungle-Rails/blob/master/docs/Login%202020-02-12%2013-40-41.png)
 
 <b>App Mainpage</b>
 
-![" App Mainpage"]()
+!["App Mainpage"](https://github.com/Don-Stevenson/Jungle-Rails/blob/master/docs/Login%202020-02-12%2013-40-41.png)
 
 <b>Adding to cart</b>
 
-!["Adding to cart"]()co
+!["Adding to cart"](https://github.com/Don-Stevenson/Jungle-Rails/blob/master/docs/Add%20to%20cart%202020-02-12%2013-42-28.png)
 
+<b>My Cart</b>
+
+!["My Cart"](https://github.com/Don-Stevenson/Jungle-Rails/blob/master/docs/MyCart%202020-02-12%2013-43-14.png)
+
+<b>Paying</b>
+
+!["Pay"](https://github.com/Don-Stevenson/Jungle-Rails/blob/master/docs/Pay%202020-02-12%2013-45-13.png)
 
 ##  Setup 
 
