@@ -1,9 +1,23 @@
-# Jungle
+#  Jungle 
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example. This project was built by yours truly using Ruby on Rails, PostgreSQL, Rspec, Stripe and ActiveRecord.
+
+Jungle looks like:
+
+<b>Login</b>
+
+!["Login"]()
+
+<b>App Mainpage</b>
+
+![" App Mainpage"]()
+
+<b>Adding to cart</b>
+
+!["Adding to cart"]()co
 
 
-## Setup
+##  Setup 
 
 1. Run `bundle install` to install dependencies
 2. Create `config/database.yml` by copying `config/database.example.yml`
@@ -14,13 +28,13 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 7. Put Stripe (test) keys into appropriate .env vars
 8. Run `bin/rails s -b 0.0.0.0` to start the server
 
-## Stripe Testing
+##  Stripe Testing 
 
 Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
 
 More information in their docs: <https://stripe.com/docs/testing#cards>
 
-## Dependencies
+##  Dependencies 
 
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
